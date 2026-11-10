@@ -1,0 +1,9 @@
+target/
+analysis.json
+analysis.txt
+ai_input.txt
+report.csv
+sales.csv
+.env
+.env.*
+.DS_Store
